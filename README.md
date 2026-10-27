@@ -36,8 +36,8 @@ App/
 Use Node.js 22+ and a running MongoDB instance.
 
 ```bash
-git clone https://github.com/Vishwaranjan0001/App.git
-cd App/App/backend
+git clone https://github.com/Vishwaranjan0001/FoodBridge.git
+cd FoodBridge/App/backend
 npm install
 ```
 
